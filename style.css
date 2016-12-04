@@ -1,0 +1,44 @@
+h2{
+  margin-top: 0px;
+}
+#quizframe {
+
+  text-align: center;
+}
+#question {
+  margin-bottom: 15px;
+
+}
+
+.divChoice {
+
+  background-color: black;
+
+  margin: auto;
+  margin-top: 3px;
+  margin-bottom:  10px;
+  width: 600px;
+  height: 25px;
+  border: 10px;
+  color: white;
+}
+.divChoice:hover {
+  background-color: grey;
+}
+
+#photo img{
+height: 300px;
+width:600px;
+
+}
+
+#time {
+  float: right;
+  font-size: 25px;
+  margin-right:  10px;
+  color: red;
+}
+
+#finalpic {
+
+  height: 400px;}
