@@ -40,5 +40,40 @@ width:600px;
 }
 
 #finalpic {
+ padding-left: 145px;
+  height: 350px;
+margin: auto;
+  }
 
-  height: 400px;}
+  #answer img {
+
+    height: 350px;
+
+    }
+
+#answer {
+  text-align: center;
+}
+
+#next {
+
+  padding-left:  0;
+  float: right;
+  margin-right: 50px;
+  width: 100px;
+  height: 30px;
+}
+
+.correct {
+  color:green;
+
+}
+
+.wrong {
+  color:red;
+
+}
+
+#resultDiv {
+  text-align: center;
+}
